@@ -20,9 +20,9 @@ it is a wrapper for the contents of the main header, sections and footer. I ofte
 
 ## the future
 
-planned features:
+to do:
 
-* a grid system
+* extend the grid system
 * responsivity
 * form styles
 * some nice little animations (and 3d)

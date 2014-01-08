@@ -2,6 +2,8 @@
 	display:block;
 	position:relative;
 	
+	padding:5px;
+	
 	overflow:hidden;
 }
 
@@ -11,4 +13,14 @@
 	float:left;
 	
 	width:25%;
+}
+
+.grid .unit.wrap {
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	padding:5px;
+}
+
+.grid .unit .wrap {
+	padding:5px;
 }
