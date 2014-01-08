@@ -1,3 +1,16 @@
-.colors .unit {
-	min-height:80px;
+.colors .unit div {
+	padding:4.5em 0.5em 0.5em;
+	
+	text-align:right;
+}
+
+.colors .bg-navy,
+.colors .bg-blue,
+.colors .bg-olive,
+.colors .bg-red,
+.colors .bg-purple,
+.colors .bg-fuchsia,
+.colors .bg-maroon,
+.colors .bg-black {
+	color:white;
 }
