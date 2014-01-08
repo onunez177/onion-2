@@ -13,6 +13,7 @@ it is a wrapper for the contents of the main header, sections and footer. I ofte
 
 ## the css
 
+* colors.css - alternative colors for standard keywords such as `yellow`, `blue` or `lime` adapted from [clrs.cc](http://clrs.cc/) by mrmrs ([Github](https://github.com/mrmrs/)[Website](http://mrmrs.cc/))
 * reset.css - simple reset
 * structure.css - a little bit of structure
 * typography.css - although this is a reset too, it is not in reset.css because in some cases you only need reset.css
