@@ -17,3 +17,14 @@ it is a wrapper for the contents of the main header, sections and footer. I ofte
 * reset.css - simple reset
 * structure.css - a little bit of structure
 * typography.css - although this is a reset too, it is not in reset.css because in some cases you only need reset.css
+
+## the future
+
+planned features:
+
+* a grid system
+* responsivity
+* form styles
+* some nice little animations (and 3d)
+* a logo might be nice
+* a death laser
