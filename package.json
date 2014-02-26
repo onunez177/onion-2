@@ -1,0 +1,8 @@
+{
+  "name": "reg4in.onion",
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-stylus": "~0.13.0",
+    "grunt": "~0.4.2"
+  }
+}
